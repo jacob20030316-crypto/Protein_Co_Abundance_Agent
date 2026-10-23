@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">DDX5_HUMAN</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">RFC2_HUMAN</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">SYQ_HUMAN</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">TCPE_HUMAN</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">TCPG_HUMAN</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">TCPH_HUMAN</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">TCPQ_HUMAN</data>
+    </node>
+    <edge source="n0" target="n1">
+      <data key="e_weight">0.817438903255385</data>
+    </edge>
+    <edge source="n0" target="n2">
+      <data key="e_weight">0.802462678361958</data>
+    </edge>
+    <edge source="n3" target="n4">
+      <data key="e_weight">0.944535439633521</data>
+    </edge>
+    <edge source="n0" target="n5">
+      <data key="e_weight">0.818827280242137</data>
+    </edge>
+    <edge source="n3" target="n5">
+      <data key="e_weight">0.87400397813986</data>
+    </edge>
+    <edge source="n3" target="n6">
+      <data key="e_weight">0.917547479479584</data>
+    </edge>
+    <edge source="n4" target="n6">
+      <data key="e_weight">0.840867726049965</data>
+    </edge>
+    <edge source="n5" target="n6">
+      <data key="e_weight">0.850875290459335</data>
+    </edge>
+  </graph>
+</graphml>

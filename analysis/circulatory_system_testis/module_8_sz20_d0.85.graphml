@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">AIMP2_HUMAN</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">ANR28_HUMAN</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">ARMC8_HUMAN</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">F118B_HUMAN</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">GLYC_HUMAN</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">L2HDH_HUMAN</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">LANC2_HUMAN</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">MYL6B_HUMAN</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">NCK2_HUMAN</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">NFS1_HUMAN</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">NJMU_HUMAN</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">NNTM_HUMAN</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">OXSM_HUMAN</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">PPM1A_HUMAN</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">PTGR2_HUMAN</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">RAB28_HUMAN</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">TBL2_HUMAN</data>
+    </node>
+    <node id="n17">
+      <data key="v_name">THNS1_HUMAN</data>
+    </node>
+    <node id="n18">
+      <data key="v_name">TM9S4_HUMAN</data>
+    </node>
+    <node id="n19">
+      <data key="v_name">TT21B_HUMAN</data>
+    </node>
+    <edge source="n1" target="n10">
+      <data key="e_weight">0.863977187415078</data>
+    </edge>
+    <edge source="n8" target="n13">
+      <data key="e_weight">0.881114434037441</data>
+    </edge>
+    <edge source="n11" target="n13">
+      <data key="e_weight">0.833030221885</data>
+    </edge>
+    <edge source="n5" target="n14">
+      <data key="e_weight">0.843451296233855</data>
+    </edge>
+    <edge source="n9" target="n14">
+      <data key="e_weight">0.824048017448942</data>
+    </edge>
+    <edge source="n12" target="n14">
+      <data key="e_weight">0.866265634529923</data>
+    </edge>
+    <edge source="n13" target="n14">
+      <data key="e_weight">0.851989862187599</data>
+    </edge>
+    <edge source="n0" target="n15">
+      <data key="e_weight">0.83488673394365</data>
+    </edge>
+    <edge source="n3" target="n15">
+      <data key="e_weight">0.861570537228202</data>
+    </edge>
+    <edge source="n4" target="n15">
+      <data key="e_weight">0.826804219974755</data>
+    </edge>
+    <edge source="n15" target="n16">
+      <data key="e_weight">0.854624247899574</data>
+    </edge>
+    <edge source="n3" target="n17">
+      <data key="e_weight">0.858256079574294</data>
+    </edge>
+    <edge source="n7" target="n18">
+      <data key="e_weight">0.841041583820649</data>
+    </edge>
+    <edge source="n2" target="n19">
+      <data key="e_weight">0.815606030673784</data>
+    </edge>
+    <edge source="n3" target="n19">
+      <data key="e_weight">0.832755422526944</data>
+    </edge>
+    <edge source="n6" target="n19">
+      <data key="e_weight">0.85435993530405</data>
+    </edge>
+    <edge source="n7" target="n19">
+      <data key="e_weight">0.850185284074442</data>
+    </edge>
+    <edge source="n10" target="n19">
+      <data key="e_weight">0.826744416323776</data>
+    </edge>
+    <edge source="n12" target="n19">
+      <data key="e_weight">0.857077323184784</data>
+    </edge>
+  </graph>
+</graphml>

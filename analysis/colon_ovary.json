@@ -1,0 +1,145 @@
+{
+ "0": [
+  {
+   "protein_entry": "A1AT_HUMAN",
+   "accession": "P01009",
+   "gene": "SERPINA1"
+  },
+  {
+   "protein_entry": "ALBU_HUMAN",
+   "accession": "P02768",
+   "gene": "ALB"
+  },
+  {
+   "protein_entry": "APOA1_HUMAN",
+   "accession": "P02647",
+   "gene": "APOA1"
+  },
+  {
+   "protein_entry": "CLUS_HUMAN",
+   "accession": "P10909",
+   "gene": "CLU"
+  },
+  {
+   "protein_entry": "CO3_HUMAN",
+   "accession": "P01024",
+   "gene": "C3"
+  },
+  {
+   "protein_entry": "FIBA_HUMAN",
+   "accession": "P02671",
+   "gene": "FGA"
+  },
+  {
+   "protein_entry": "TRFE_HUMAN",
+   "accession": "P02787",
+   "gene": "TF"
+  }
+ ],
+ "1": [
+  {
+   "protein_entry": "ARGL1_HUMAN",
+   "accession": "Q9NWB6",
+   "gene": "ARGLU1"
+  },
+  {
+   "protein_entry": "MATR3_HUMAN",
+   "accession": "P43243",
+   "gene": "MATR3"
+  },
+  {
+   "protein_entry": "NUP98_HUMAN",
+   "accession": "P52948",
+   "gene": "NUP98"
+  },
+  {
+   "protein_entry": "PESC_HUMAN",
+   "accession": "O00541",
+   "gene": "PES1"
+  },
+  {
+   "protein_entry": "RPB1_HUMAN",
+   "accession": "P24928",
+   "gene": "POLR2A"
+  },
+  {
+   "protein_entry": "SRRT_HUMAN",
+   "accession": "Q9BXP5",
+   "gene": "SRRT"
+  },
+  {
+   "protein_entry": "U520_HUMAN",
+   "accession": "O75643",
+   "gene": "SNRNP200"
+  },
+  {
+   "protein_entry": "U5S1_HUMAN",
+   "accession": "Q15029",
+   "gene": "EFTUD2"
+  }
+ ],
+ "2": [
+  {
+   "protein_entry": "DDX46_HUMAN",
+   "accession": "Q7L014",
+   "gene": "DDX46"
+  },
+  {
+   "protein_entry": "IF4G1_HUMAN",
+   "accession": "Q04637",
+   "gene": "EIF4G1"
+  },
+  {
+   "protein_entry": "NSUN2_HUMAN",
+   "accession": "Q08J23",
+   "gene": "NSUN2"
+  },
+  {
+   "protein_entry": "RFC4_HUMAN",
+   "accession": "P35249",
+   "gene": "RFC4"
+  },
+  {
+   "protein_entry": "SMC2_HUMAN",
+   "accession": "O95347",
+   "gene": "SMC2"
+  },
+  {
+   "protein_entry": "SMC4_HUMAN",
+   "accession": "Q9NTJ3",
+   "gene": "SMC4"
+  }
+ ],
+ "3": [
+  {
+   "protein_entry": "MCM2_HUMAN",
+   "accession": "P49736",
+   "gene": "MCM2"
+  },
+  {
+   "protein_entry": "MCM4_HUMAN",
+   "accession": "P33991",
+   "gene": "MCM4"
+  },
+  {
+   "protein_entry": "MCM5_HUMAN",
+   "accession": "P33992",
+   "gene": "MCM5"
+  },
+  {
+   "protein_entry": "MCM6_HUMAN",
+   "accession": "Q14566",
+   "gene": "MCM6"
+  },
+  {
+   "protein_entry": "MCM7_HUMAN",
+   "accession": "P33993",
+   "gene": "MCM7"
+  },
+  {
+   "protein_entry": "NASP_HUMAN",
+   "accession": "P49321",
+   "gene": "NASP"
+  }
+ ]
+}

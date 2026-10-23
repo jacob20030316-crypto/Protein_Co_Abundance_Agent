@@ -1,0 +1,39 @@
+{
+ "0": [
+  {
+   "protein_entry": "ACON_HUMAN",
+   "accession": "Q99798",
+   "gene": "ACO2"
+  },
+  {
+   "protein_entry": "ANXA6_HUMAN",
+   "accession": "P08133",
+   "gene": "ANXA6"
+  },
+  {
+   "protein_entry": "BIP_HUMAN",
+   "accession": "P11021",
+   "gene": "HSPA5"
+  },
+  {
+   "protein_entry": "CALX_HUMAN",
+   "accession": "P27824",
+   "gene": "CANX"
+  },
+  {
+   "protein_entry": "PDIA4_HUMAN",
+   "accession": "P13667",
+   "gene": "PDIA4"
+  },
+  {
+   "protein_entry": "SC23A_HUMAN",
+   "accession": "Q15436",
+   "gene": "SEC23A"
+  },
+  {
+   "protein_entry": "VPS35_HUMAN",
+   "accession": "Q96QK1",
+   "gene": "VPS35"
+  }
+ ]
+}

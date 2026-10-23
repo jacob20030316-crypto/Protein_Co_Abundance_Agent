@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">AL1B1_HUMAN</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">ATPG_HUMAN</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">CATC_HUMAN</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">CBX5_HUMAN</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">CERS6_HUMAN</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">CHUR_HUMAN</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">CIP4_HUMAN</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">CORO7_HUMAN</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">DAZP1_HUMAN</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">ERO1A_HUMAN</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">GEMI8_HUMAN</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">HACD3_HUMAN</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">HCDH_HUMAN</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">IFIT5_HUMAN</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">INF2_HUMAN</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">INO1_HUMAN</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">LSM5_HUMAN</data>
+    </node>
+    <node id="n17">
+      <data key="v_name">MA2B1_HUMAN</data>
+    </node>
+    <node id="n18">
+      <data key="v_name">MAP2_HUMAN</data>
+    </node>
+    <node id="n19">
+      <data key="v_name">MTNA_HUMAN</data>
+    </node>
+    <node id="n20">
+      <data key="v_name">NDUS7_HUMAN</data>
+    </node>
+    <node id="n21">
+      <data key="v_name">NSF1C_HUMAN</data>
+    </node>
+    <node id="n22">
+      <data key="v_name">PFKAP_HUMAN</data>
+    </node>
+    <node id="n23">
+      <data key="v_name">PHF3_HUMAN</data>
+    </node>
+    <node id="n24">
+      <data key="v_name">PPM1A_HUMAN</data>
+    </node>
+    <node id="n25">
+      <data key="v_name">PSMD9_HUMAN</data>
+    </node>
+    <node id="n26">
+      <data key="v_name">PTN9_HUMAN</data>
+    </node>
+    <node id="n27">
+      <data key="v_name">RECQ1_HUMAN</data>
+    </node>
+    <node id="n28">
+      <data key="v_name">RO60_HUMAN</data>
+    </node>
+    <node id="n29">
+      <data key="v_name">SDHA_HUMAN</data>
+    </node>
+    <node id="n30">
+      <data key="v_name">SEPT2_HUMAN</data>
+    </node>
+    <node id="n31">
+      <data key="v_name">SMC2_HUMAN</data>
+    </node>
+    <node id="n32">
+      <data key="v_name">SORCN_HUMAN</data>
+    </node>
+    <node id="n33">
+      <data key="v_name">SP16H_HUMAN</data>
+    </node>
+    <node id="n34">
+      <data key="v_name">TNPO1_HUMAN</data>
+    </node>
+    <node id="n35">
+      <data key="v_name">TPM1_HUMAN</data>
+    </node>
+    <node id="n36">
+      <data key="v_name">U5S1_HUMAN</data>
+    </node>
+    <node id="n37">
+      <data key="v_name">UBR7_HUMAN</data>
+    </node>
+    <node id="n38">
+      <data key="v_name">ZC3H6_HUMAN</data>
+    </node>
+    <edge source="n0" target="n5">
+      <data key="e_weight">0.964641990179898</data>
+    </edge>
+    <edge source="n1" target="n5">
+      <data key="e_weight">0.883930908840267</data>
+    </edge>
+    <edge source="n2" target="n5">
+      <data key="e_weight">0.815231682102265</data>
+    </edge>
+    <edge source="n3" target="n5">
+      <data key="e_weight">0.823279923709028</data>
+    </edge>
+    <edge source="n5" target="n6">
+      <data key="e_weight">0.843882265516422</data>
+    </edge>
+    <edge source="n5" target="n7">
+      <data key="e_weight">0.923150097777369</data>
+    </edge>
+    <edge source="n5" target="n8">
+      <data key="e_weight">0.801832470807887</data>
+    </edge>
+    <edge source="n5" target="n9">
+      <data key="e_weight">0.812420137845079</data>
+    </edge>
+    <edge source="n5" target="n11">
+      <data key="e_weight">0.882000961968524</data>
+    </edge>
+    <edge source="n5" target="n12">
+      <data key="e_weight">0.914926249503916</data>
+    </edge>
+    <edge source="n5" target="n13">
+      <data key="e_weight">0.958180993903126</data>
+    </edge>
+    <edge source="n5" target="n14">
+      <data key="e_weight">0.878986953330235</data>
+    </edge>
+    <edge source="n4" target="n15">
+      <data key="e_weight">0.968699861907655</data>
+    </edge>
+    <edge source="n15" target="n16">
+      <data key="e_weight">0.900842132926139</data>
+    </edge>
+    <edge source="n5" target="n17">
+      <data key="e_weight">0.895050317669532</data>
+    </edge>
+    <edge source="n5" target="n18">
+      <data key="e_weight">0.901628046734153</data>
+    </edge>
+    <edge source="n5" target="n19">
+      <data key="e_weight">0.919128347303849</data>
+    </edge>
+    <edge source="n5" target="n20">
+      <data key="e_weight">0.81135381095251</data>
+    </edge>
+    <edge source="n15" target="n20">
+      <data key="e_weight">0.811419737383488</data>
+    </edge>
+    <edge source="n5" target="n21">
+      <data key="e_weight">0.876222796376342</data>
+    </edge>
+    <edge source="n15" target="n23">
+      <data key="e_weight">0.949291661145111</data>
+    </edge>
+    <edge source="n16" target="n23">
+      <data key="e_weight">0.915201742423738</data>
+    </edge>
+    <edge source="n5" target="n24">
+      <data key="e_weight">0.892576777571894</data>
+    </edge>
+    <edge source="n5" target="n25">
+      <data key="e_weight">0.80091339900889</data>
+    </edge>
+    <edge source="n6" target="n26">
+      <data key="e_weight">0.869094702328098</data>
+    </edge>
+    <edge source="n10" target="n26">
+      <data key="e_weight">0.865443254399466</data>
+    </edge>
+    <edge source="n5" target="n27">
+      <data key="e_weight">0.862097966610938</data>
+    </edge>
+    <edge source="n5" target="n28">
+      <data key="e_weight">0.801842513631935</data>
+    </edge>
+    <edge source="n5" target="n29">
+      <data key="e_weight">0.848354663956593</data>
+    </edge>
+    <edge source="n22" target="n29">
+      <data key="e_weight">0.804890666881773</data>
+    </edge>
+    <edge source="n5" target="n30">
+      <data key="e_weight">0.982107606960228</data>
+    </edge>
+    <edge source="n5" target="n31">
+      <data key="e_weight">0.866788292064727</data>
+    </edge>
+    <edge source="n5" target="n32">
+      <data key="e_weight">0.894155682490946</data>
+    </edge>
+    <edge source="n5" target="n33">
+      <data key="e_weight">0.801751271119803</data>
+    </edge>
+    <edge source="n5" target="n34">
+      <data key="e_weight">0.829716910120565</data>
+    </edge>
+    <edge source="n30" target="n35">
+      <data key="e_weight">0.838085641238306</data>
+    </edge>
+    <edge source="n5" target="n36">
+      <data key="e_weight">0.937966403492688</data>
+    </edge>
+    <edge source="n27" target="n36">
+      <data key="e_weight">0.853422512698672</data>
+    </edge>
+    <edge source="n5" target="n37">
+      <data key="e_weight">0.85091844988648</data>
+    </edge>
+    <edge source="n26" target="n38">
+      <data key="e_weight">0.848657455327883</data>
+    </edge>
+  </graph>
+</graphml>

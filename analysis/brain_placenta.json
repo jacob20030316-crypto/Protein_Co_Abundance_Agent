@@ -1,0 +1,91 @@
+{
+ "0": [
+  {
+   "protein_entry": "AHNK_HUMAN",
+   "accession": "Q09666",
+   "gene": "AHNAK"
+  },
+  {
+   "protein_entry": "CALU_HUMAN",
+   "accession": "O43852",
+   "gene": "CALU"
+  },
+  {
+   "protein_entry": "CAN2_HUMAN",
+   "accession": "P17655",
+   "gene": "CAPN2"
+  },
+  {
+   "protein_entry": "FAS_HUMAN",
+   "accession": "P49327",
+   "gene": "FASN"
+  },
+  {
+   "protein_entry": "FLNA_HUMAN",
+   "accession": "P21333",
+   "gene": "FLNA"
+  },
+  {
+   "protein_entry": "FLNB_HUMAN",
+   "accession": "O75369",
+   "gene": "FLNB"
+  },
+  {
+   "protein_entry": "IQGA1_HUMAN",
+   "accession": "P46940",
+   "gene": "IQGAP1"
+  },
+  {
+   "protein_entry": "TLN1_HUMAN",
+   "accession": "Q9Y490",
+   "gene": "TLN1"
+  }
+ ],
+ "1": [
+  {
+   "protein_entry": "ANXA1_HUMAN",
+   "accession": "P04083",
+   "gene": "ANXA1"
+  },
+  {
+   "protein_entry": "ANXA5_HUMAN",
+   "accession": "P08758",
+   "gene": "ANXA5"
+  },
+  {
+   "protein_entry": "BIP_HUMAN",
+   "accession": "P11021",
+   "gene": "HSPA5"
+  },
+  {
+   "protein_entry": "GANAB_HUMAN",
+   "accession": "Q14697",
+   "gene": "GANAB"
+  },
+  {
+   "protein_entry": "HYOU1_HUMAN",
+   "accession": "Q9Y4L1",
+   "gene": "HYOU1"
+  },
+  {
+   "protein_entry": "PDIA4_HUMAN",
+   "accession": "P13667",
+   "gene": "PDIA4"
+  },
+  {
+   "protein_entry": "PDLI1_HUMAN",
+   "accession": "O00151",
+   "gene": "PDLIM1"
+  },
+  {
+   "protein_entry": "PRDX4_HUMAN",
+   "accession": "Q13162",
+   "gene": "PRDX4"
+  },
+  {
+   "protein_entry": "TXND5_HUMAN",
+   "accession": "Q8NBS9",
+   "gene": "TXNDC5"
+  }
+ ]
+}

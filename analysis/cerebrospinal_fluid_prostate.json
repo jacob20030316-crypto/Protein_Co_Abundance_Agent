@@ -1,0 +1,145 @@
+{
+ "0": [
+  {
+   "protein_entry": "ADA10_HUMAN",
+   "accession": "O14672",
+   "gene": "ADAM10"
+  },
+  {
+   "protein_entry": "GNS_HUMAN",
+   "accession": "P15586",
+   "gene": "GNS"
+  },
+  {
+   "protein_entry": "IMPA3_HUMAN",
+   "accession": "Q9NX62",
+   "gene": "BPNT2"
+  },
+  {
+   "protein_entry": "MA2B1_HUMAN",
+   "accession": "O00754",
+   "gene": "MAN2B1"
+  },
+  {
+   "protein_entry": "MPRI_HUMAN",
+   "accession": "P11717",
+   "gene": "IGF2R"
+  },
+  {
+   "protein_entry": "NRP1_HUMAN",
+   "accession": "O14786",
+   "gene": "NRP1"
+  }
+ ],
+ "1": [
+  {
+   "protein_entry": "ANT3_HUMAN",
+   "accession": "P01008",
+   "gene": "SERPINC1"
+  },
+  {
+   "protein_entry": "APOE_HUMAN",
+   "accession": "P02649",
+   "gene": "APOE"
+  },
+  {
+   "protein_entry": "COCA1_HUMAN",
+   "accession": "Q99715",
+   "gene": "COL12A1"
+  },
+  {
+   "protein_entry": "GELS_HUMAN",
+   "accession": "P06396",
+   "gene": "GSN"
+  },
+  {
+   "protein_entry": "LAMA5_HUMAN",
+   "accession": "O15230",
+   "gene": "LAMA5"
+  },
+  {
+   "protein_entry": "LAMB2_HUMAN",
+   "accession": "P55268",
+   "gene": "LAMB2"
+  },
+  {
+   "protein_entry": "LAMC1_HUMAN",
+   "accession": "P11047",
+   "gene": "LAMC1"
+  },
+  {
+   "protein_entry": "SODM_HUMAN",
+   "accession": "P04179",
+   "gene": "SOD2"
+  },
+  {
+   "protein_entry": "THRB_HUMAN",
+   "accession": "P00734",
+   "gene": "F2"
+  },
+  {
+   "protein_entry": "VTDB_HUMAN",
+   "accession": "P02774",
+   "gene": "GC"
+  }
+ ],
+ "3": [
+  {
+   "protein_entry": "ASAH1_HUMAN",
+   "accession": "Q13510",
+   "gene": "ASAH1"
+  },
+  {
+   "protein_entry": "AT1B1_HUMAN",
+   "accession": "P05026",
+   "gene": "ATP1B1"
+  },
+  {
+   "protein_entry": "ENDD1_HUMAN",
+   "accession": "O94919",
+   "gene": "ENDOD1"
+  },
+  {
+   "protein_entry": "PLXB2_HUMAN",
+   "accession": "O15031",
+   "gene": "PLXNB2"
+  },
+  {
+   "protein_entry": "RET4_HUMAN",
+   "accession": "P02753",
+   "gene": "RBP4"
+  },
+  {
+   "protein_entry": "SBP1_HUMAN",
+   "accession": "Q13228",
+   "gene": "SELENBP1"
+  }
+ ],
+ "4": [
+  {
+   "protein_entry": "CD276_HUMAN",
+   "accession": "Q5ZPR3",
+   "gene": "CD276"
+  },
+  {
+   "protein_entry": "HSP13_HUMAN",
+   "accession": "P48723",
+   "gene": "HSPA13"
+  },
+  {
+   "protein_entry": "HYOU1_HUMAN",
+   "accession": "Q9Y4L1",
+   "gene": "HYOU1"
+  },
+  {
+   "protein_entry": "ICAM1_HUMAN",
+   "accession": "P05362",
+   "gene": "ICAM1"
+  },
+  {
+   "protein_entry": "TFR1_HUMAN",
+   "accession": "P02786",
+   "gene": "TFRC"
+  }
+ ]
+}

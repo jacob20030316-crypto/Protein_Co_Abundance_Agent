@@ -1,0 +1,54 @@
+{
+ "0": [
+  {
+   "protein_entry": "CERU_HUMAN",
+   "accession": "P00450",
+   "gene": "CP"
+  },
+  {
+   "protein_entry": "CO1A1_HUMAN",
+   "accession": "P02452",
+   "gene": "COL1A1"
+  },
+  {
+   "protein_entry": "CO1A2_HUMAN",
+   "accession": "P08123",
+   "gene": "COL1A2"
+  },
+  {
+   "protein_entry": "CO3_HUMAN",
+   "accession": "P01024",
+   "gene": "C3"
+  },
+  {
+   "protein_entry": "CO6A1_HUMAN",
+   "accession": "P12109",
+   "gene": "COL6A1"
+  },
+  {
+   "protein_entry": "CO6A2_HUMAN",
+   "accession": "P12110",
+   "gene": "COL6A2"
+  },
+  {
+   "protein_entry": "CO6A3_HUMAN",
+   "accession": "P12111",
+   "gene": "COL6A3"
+  },
+  {
+   "protein_entry": "HBA_HUMAN",
+   "accession": "P69905",
+   "gene": "HBA1; HBA2"
+  },
+  {
+   "protein_entry": "LUM_HUMAN",
+   "accession": "P51884",
+   "gene": "LUM"
+  },
+  {
+   "protein_entry": "PGS1_HUMAN",
+   "accession": "P21810",
+   "gene": "BGN"
+  }
+ ]
+}

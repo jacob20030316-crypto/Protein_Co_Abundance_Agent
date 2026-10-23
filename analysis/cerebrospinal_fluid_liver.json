@@ -1,0 +1,187 @@
+{
+ "0": [
+  {
+   "protein_entry": "4F2_HUMAN",
+   "accession": "P08195",
+   "gene": "SLC3A2"
+  },
+  {
+   "protein_entry": "APOA2_HUMAN",
+   "accession": "P02652",
+   "gene": "APOA2"
+  },
+  {
+   "protein_entry": "AT1B1_HUMAN",
+   "accession": "P05026",
+   "gene": "ATP1B1"
+  },
+  {
+   "protein_entry": "CBPD_HUMAN",
+   "accession": "O75976",
+   "gene": "CPD"
+  },
+  {
+   "protein_entry": "LAMB1_HUMAN",
+   "accession": "P07942",
+   "gene": "LAMB1"
+  },
+  {
+   "protein_entry": "MA1A1_HUMAN",
+   "accession": "P33908",
+   "gene": "MAN1A1"
+  },
+  {
+   "protein_entry": "MPRI_HUMAN",
+   "accession": "P11717",
+   "gene": "IGF2R"
+  },
+  {
+   "protein_entry": "PPGB_HUMAN",
+   "accession": "P10619",
+   "gene": "CTSA"
+  }
+ ],
+ "1": [
+  {
+   "protein_entry": "A2GL_HUMAN",
+   "accession": "P02750",
+   "gene": "LRG1"
+  },
+  {
+   "protein_entry": "AACT_HUMAN",
+   "accession": "P01011",
+   "gene": "SERPINA3"
+  },
+  {
+   "protein_entry": "CBG_HUMAN",
+   "accession": "P08185",
+   "gene": "SERPINA6"
+  },
+  {
+   "protein_entry": "CFAB_HUMAN",
+   "accession": "P00751",
+   "gene": "CFB"
+  },
+  {
+   "protein_entry": "CO5_HUMAN",
+   "accession": "P01031",
+   "gene": "C5"
+  },
+  {
+   "protein_entry": "CO9_HUMAN",
+   "accession": "P02748",
+   "gene": "C9"
+  },
+  {
+   "protein_entry": "COIA1_HUMAN",
+   "accession": "P39060",
+   "gene": "COL18A1"
+  },
+  {
+   "protein_entry": "ITIH4_HUMAN",
+   "accession": "Q14624",
+   "gene": "ITIH4"
+  }
+ ],
+ "2": [
+  {
+   "protein_entry": "AFAM_HUMAN",
+   "accession": "P43652",
+   "gene": "AFM"
+  },
+  {
+   "protein_entry": "BGAL_HUMAN",
+   "accession": "P16278",
+   "gene": "GLB1"
+  },
+  {
+   "protein_entry": "C1QC_HUMAN",
+   "accession": "P02747",
+   "gene": "C1QC"
+  },
+  {
+   "protein_entry": "CPVL_HUMAN",
+   "accession": "Q9H3G5",
+   "gene": "CPVL"
+  },
+  {
+   "protein_entry": "GNS_HUMAN",
+   "accession": "P15586",
+   "gene": "GNS"
+  },
+  {
+   "protein_entry": "LG3BP_HUMAN",
+   "accession": "Q08380",
+   "gene": "LGALS3BP"
+  },
+  {
+   "protein_entry": "MIME_HUMAN",
+   "accession": "P20774",
+   "gene": "OGN"
+  },
+  {
+   "protein_entry": "PLOD2_HUMAN",
+   "accession": "O00469",
+   "gene": "PLOD2"
+  }
+ ],
+ "3": [
+  {
+   "protein_entry": "AOC3_HUMAN",
+   "accession": "Q16853",
+   "gene": "AOC3"
+  },
+  {
+   "protein_entry": "CERU_HUMAN",
+   "accession": "P00450",
+   "gene": "CP"
+  },
+  {
+   "protein_entry": "CO3_HUMAN",
+   "accession": "P01024",
+   "gene": "C3"
+  },
+  {
+   "protein_entry": "IC1_HUMAN",
+   "accession": "P05155",
+   "gene": "SERPING1"
+  },
+  {
+   "protein_entry": "TENA_HUMAN",
+   "accession": "P24821",
+   "gene": "TNC"
+  }
+ ],
+ "4": [
+  {
+   "protein_entry": "C163A_HUMAN",
+   "accession": "Q86VB7",
+   "gene": "CD163"
+  },
+  {
+   "protein_entry": "CO6A1_HUMAN",
+   "accession": "P12109",
+   "gene": "COL6A1"
+  },
+  {
+   "protein_entry": "CO6A3_HUMAN",
+   "accession": "P12111",
+   "gene": "COL6A3"
+  },
+  {
+   "protein_entry": "FIBA_HUMAN",
+   "accession": "P02671",
+   "gene": "FGA"
+  },
+  {
+   "protein_entry": "LRP1_HUMAN",
+   "accession": "Q07954",
+   "gene": "LRP1"
+  },
+  {
+   "protein_entry": "PGBM_HUMAN",
+   "accession": "P98160",
+   "gene": "HSPG2"
+  }
+ ]
+}

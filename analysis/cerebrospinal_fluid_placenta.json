@@ -1,0 +1,88 @@
+{
+ "1": [
+  {
+   "protein_entry": "ACBP_HUMAN",
+   "accession": "P07108",
+   "gene": "DBI"
+  },
+  {
+   "protein_entry": "GSTP1_HUMAN",
+   "accession": "P09211",
+   "gene": "GSTP1"
+  },
+  {
+   "protein_entry": "IBP3_HUMAN",
+   "accession": "P17936",
+   "gene": "IGFBP3"
+  },
+  {
+   "protein_entry": "MDHC_HUMAN",
+   "accession": "P40925",
+   "gene": "MDH1"
+  },
+  {
+   "protein_entry": "TIMP1_HUMAN",
+   "accession": "P01033",
+   "gene": "TIMP1"
+  }
+ ],
+ "2": [
+  {
+   "protein_entry": "AEBP1_HUMAN",
+   "accession": "Q8IUX7",
+   "gene": "AEBP1"
+  },
+  {
+   "protein_entry": "B2MG_HUMAN",
+   "accession": "P61769",
+   "gene": "B2M"
+  },
+  {
+   "protein_entry": "CSPG2_HUMAN",
+   "accession": "P13611",
+   "gene": "VCAN"
+  },
+  {
+   "protein_entry": "MFGM_HUMAN",
+   "accession": "Q08431",
+   "gene": "MFGE8"
+  },
+  {
+   "protein_entry": "MPRI_HUMAN",
+   "accession": "P11717",
+   "gene": "IGF2R"
+  },
+  {
+   "protein_entry": "VASN_HUMAN",
+   "accession": "Q6EMK4",
+   "gene": "VASN"
+  }
+ ],
+ "4": [
+  {
+   "protein_entry": "FIBB_HUMAN",
+   "accession": "P02675",
+   "gene": "FGB"
+  },
+  {
+   "protein_entry": "LAMA5_HUMAN",
+   "accession": "O15230",
+   "gene": "LAMA5"
+  },
+  {
+   "protein_entry": "LAMB1_HUMAN",
+   "accession": "P07942",
+   "gene": "LAMB1"
+  },
+  {
+   "protein_entry": "LAMC1_HUMAN",
+   "accession": "P11047",
+   "gene": "LAMC1"
+  },
+  {
+   "protein_entry": "LTBP1_HUMAN",
+   "accession": "Q14766",
+   "gene": "LTBP1"
+  }
+ ]
+}

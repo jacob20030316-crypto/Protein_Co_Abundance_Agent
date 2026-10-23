@@ -1,0 +1,48 @@
+tissue,samples,proteins,nodes,edges,positive_edges,tested_pairs,bh_p_threshold,status
+bone_marrow,323,7166,6144,1490493,947904,16798168,0.0291289472498807,included
+breast,216,12496,9295,823006,652383,37053117,0.0138997628814953,included
+circulatory_system,191,10821,8101,1791923,1303905,25121640,0.0199816972341615,included
+colon,148,13333,9681,630433,524030,39224246,0.0127675232840688,included
+skin,63,8533,5576,174707,151810,12786371,0.0080388178926916,included
+cell line,55,14110,10608,870162,528477,52343975,0.0061915034230281,included
+lung,52,10029,5428,47015,40534,10557690,0.0021799791500829,included
+bone,47,6410,3740,458279,342431,5112113,0.0145221795607351,included
+brain,45,10834,6833,1013997,886223,17657432,0.0095087136033477,included
+stem_cells,43,8721,5807,2504972,2019909,15228126,0.0256660209677407,included
+cervix_uterine,41,8489,2939,340824,247544,2791356,0.0131771592078941,included
+liver,34,7296,2664,69425,64980,2861927,0.0067527486485744,included
+kidney,33,9983,5151,93353,85693,10382667,0.0013746288273009,included
+ovary,24,8885,4467,18151,15364,7840596,0.0001935382119593,included
+cerebrospinal_fluid,19,2344,687,153470,87536,187676,0.0448776066683515,included
+testis,17,9514,3131,151886,125355,3453539,0.0029252340459486,included
+myometrium,16,4570,2381,11305,10747,2455172,0.0002321952882435,included
+rectum,16,7027,3222,65437,58958,4651259,0.0011529295036431,included
+prostate,15,8234,2685,167706,158276,2809683,0.0045052387284885,included
+autonomic_nervous_system,12,5417,3319,570833,362878,5384913,0.0077740673555049,included
+heart,11,6398,1045,23935,20945,499244,0.0023965980559778,included
+placenta,11,7863,418,6379,4409,86512,0.0040209699566118,included
+stomach,10,5001,0,0,0,0,,excluded: only 19 proteins measured in all samples
+eye,9,4476,0,0,0,0,,excluded: samples < 10
+proximal_fluid,8,1706,0,0,0,0,,excluded: samples < 10
+oral_cavity,7,4327,0,0,0,0,,excluded: samples < 10
+esophagus,6,4318,0,0,0,0,,excluded: samples < 10
+ileum,6,3186,0,0,0,0,,excluded: samples < 10
+pancreas,6,6942,0,0,0,0,,excluded: samples < 10
+adipose,5,3197,0,0,0,0,,excluded: samples < 10
+adrenal,5,5154,0,0,0,0,,excluded: samples < 10
+seminal_plasma,5,739,0,0,0,0,,excluded: samples < 10
+synovial_fluid,5,314,0,0,0,0,,excluded: samples < 10
+bile,4,93,0,0,0,0,,excluded: samples < 10
+gall_bladder,4,5180,0,0,0,0,,excluded: samples < 10
+spleen,4,4688,0,0,0,0,,excluded: samples < 10
+urinary_bladder,4,4957,0,0,0,0,,excluded: samples < 10
+blood,3,279,0,0,0,0,,excluded: samples < 10
+gut,3,3626,0,0,0,0,,excluded: samples < 10
+circulatory system,2,2151,0,0,0,0,,excluded: samples < 10
+lymph_node,2,4598,0,0,0,0,,excluded: samples < 10
+salivary_gland,2,4497,0,0,0,0,,excluded: samples < 10
+spinal_cord,2,2870,0,0,0,0,,excluded: samples < 10
+thyroid,2,2870,0,0,0,0,,excluded: samples < 10
+tonsils,2,3666,0,0,0,0,,excluded: samples < 10
+uterus,2,2688,0,0,0,0,,excluded: samples < 10
+mixed,53,14470,0,0,0,0,,excluded: mixed

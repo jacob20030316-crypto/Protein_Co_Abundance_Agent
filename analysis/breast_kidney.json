@@ -1,0 +1,103 @@
+{
+ "0": [
+  {
+   "protein_entry": "ABRX1_HUMAN",
+   "accession": "Q6UWZ7",
+   "gene": "ABRAXAS1"
+  },
+  {
+   "protein_entry": "AKAP8_HUMAN",
+   "accession": "O43823",
+   "gene": "AKAP8"
+  },
+  {
+   "protein_entry": "NELFE_HUMAN",
+   "accession": "P18615",
+   "gene": "NELFE"
+  },
+  {
+   "protein_entry": "NUP88_HUMAN",
+   "accession": "Q99567",
+   "gene": "NUP88"
+  },
+  {
+   "protein_entry": "RBM15_HUMAN",
+   "accession": "Q96T37",
+   "gene": "RBM15"
+  },
+  {
+   "protein_entry": "ZC3C1_HUMAN",
+   "accession": "Q86WB0",
+   "gene": "ZC3HC1"
+  }
+ ],
+ "1": [
+  {
+   "protein_entry": "BRD2_HUMAN",
+   "accession": "P25440",
+   "gene": "BRD2"
+  },
+  {
+   "protein_entry": "CHD8_HUMAN",
+   "accession": "Q9HCK8",
+   "gene": "CHD8"
+  },
+  {
+   "protein_entry": "MLH1_HUMAN",
+   "accession": "P40692",
+   "gene": "MLH1"
+  },
+  {
+   "protein_entry": "RNC_HUMAN",
+   "accession": "Q9NRR4",
+   "gene": "DROSHA"
+  },
+  {
+   "protein_entry": "TASOR_HUMAN",
+   "accession": "Q9UK61",
+   "gene": "TASOR"
+  }
+ ],
+ "2": [
+  {
+   "protein_entry": "CADH2_HUMAN",
+   "accession": "P19022",
+   "gene": "CDH2"
+  },
+  {
+   "protein_entry": "CD166_HUMAN",
+   "accession": "Q13740",
+   "gene": "ALCAM"
+  },
+  {
+   "protein_entry": "IKIP_HUMAN",
+   "accession": "Q70UQ0",
+   "gene": "IKBIP"
+  },
+  {
+   "protein_entry": "ITAV_HUMAN",
+   "accession": "P06756",
+   "gene": "ITGAV"
+  },
+  {
+   "protein_entry": "ITB3_HUMAN",
+   "accession": "P05106",
+   "gene": "ITGB3"
+  },
+  {
+   "protein_entry": "MYOF_HUMAN",
+   "accession": "Q9NZM1",
+   "gene": "MYOF"
+  },
+  {
+   "protein_entry": "PTPRJ_HUMAN",
+   "accession": "Q12913",
+   "gene": "PTPRJ"
+  },
+  {
+   "protein_entry": "RRBP1_HUMAN",
+   "accession": "Q9P2E9",
+   "gene": "RRBP1"
+  }
+ ]
+}

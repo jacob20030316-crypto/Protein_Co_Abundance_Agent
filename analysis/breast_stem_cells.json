@@ -1,0 +1,29 @@
+{
+ "0": [
+  {
+   "protein_entry": "ASB3_HUMAN",
+   "accession": "Q9Y575",
+   "gene": "ASB3"
+  },
+  {
+   "protein_entry": "CIA30_HUMAN",
+   "accession": "Q9Y375",
+   "gene": "NDUFAF1"
+  },
+  {
+   "protein_entry": "HYCCI_HUMAN",
+   "accession": "Q9BYI3",
+   "gene": "HYCC1"
+  },
+  {
+   "protein_entry": "IRGQ_HUMAN",
+   "accession": "Q8WZA9",
+   "gene": "IRGQ"
+  },
+  {
+   "protein_entry": "SNX33_HUMAN",
+   "accession": "Q8WV41",
+   "gene": "SNX33"
+  }
+ ]
+}

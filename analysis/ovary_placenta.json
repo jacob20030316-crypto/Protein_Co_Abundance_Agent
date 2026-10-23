@@ -1,0 +1,29 @@
+{
+ "0": [
+  {
+   "protein_entry": "ANXA3_HUMAN",
+   "accession": "P12429",
+   "gene": "ANXA3"
+  },
+  {
+   "protein_entry": "K1C18_HUMAN",
+   "accession": "P05783",
+   "gene": "KRT18"
+  },
+  {
+   "protein_entry": "K1C19_HUMAN",
+   "accession": "P08727",
+   "gene": "KRT19"
+  },
+  {
+   "protein_entry": "K2C7_HUMAN",
+   "accession": "P08729",
+   "gene": "KRT7"
+  },
+  {
+   "protein_entry": "K2C8_HUMAN",
+   "accession": "P05787",
+   "gene": "KRT8"
+  }
+ ]
+}

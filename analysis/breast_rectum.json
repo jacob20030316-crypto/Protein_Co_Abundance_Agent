@@ -1,0 +1,93 @@
+{
+ "0": [
+  {
+   "protein_entry": "AL1A2_HUMAN",
+   "accession": "O94788",
+   "gene": "ALDH1A2"
+  },
+  {
+   "protein_entry": "FAM3C_HUMAN",
+   "accession": "Q92520",
+   "gene": "FAM3C"
+  },
+  {
+   "protein_entry": "MYO1E_HUMAN",
+   "accession": "Q12965",
+   "gene": "MYO1E"
+  },
+  {
+   "protein_entry": "NOP56_HUMAN",
+   "accession": "O00567",
+   "gene": "NOP56"
+  },
+  {
+   "protein_entry": "PARP4_HUMAN",
+   "accession": "Q9UKK3",
+   "gene": "PARP4"
+  },
+  {
+   "protein_entry": "RL1D1_HUMAN",
+   "accession": "O76021",
+   "gene": "RSL1D1"
+  },
+  {
+   "protein_entry": "S2513_HUMAN",
+   "accession": "Q9UJS0",
+   "gene": "SLC25A13"
+  }
+ ],
+ "1": [
+  {
+   "protein_entry": "CO1A1_HUMAN",
+   "accession": "P02452",
+   "gene": "COL1A1"
+  },
+  {
+   "protein_entry": "CO1A2_HUMAN",
+   "accession": "P08123",
+   "gene": "COL1A2"
+  },
+  {
+   "protein_entry": "CO6A1_HUMAN",
+   "accession": "P12109",
+   "gene": "COL6A1"
+  },
+  {
+   "protein_entry": "CO6A2_HUMAN",
+   "accession": "P12110",
+   "gene": "COL6A2"
+  },
+  {
+   "protein_entry": "CO6A3_HUMAN",
+   "accession": "P12111",
+   "gene": "COL6A3"
+  }
+ ],
+ "2": [
+  {
+   "protein_entry": "LAMB2_HUMAN",
+   "accession": "P55268",
+   "gene": "LAMB2"
+  },
+  {
+   "protein_entry": "LAMC1_HUMAN",
+   "accession": "P11047",
+   "gene": "LAMC1"
+  },
+  {
+   "protein_entry": "NID1_HUMAN",
+   "accession": "P14543",
+   "gene": "NID1"
+  },
+  {
+   "protein_entry": "PGBM_HUMAN",
+   "accession": "P98160",
+   "gene": "HSPG2"
+  },
+  {
+   "protein_entry": "SRBS1_HUMAN",
+   "accession": "Q9BX66",
+   "gene": "SORBS1"
+  }
+ ]
+}

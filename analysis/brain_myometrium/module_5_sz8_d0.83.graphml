@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">CCDC6_HUMAN</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">FABPH_HUMAN</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">LHPP_HUMAN</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">LYPL1_HUMAN</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">MOB2_HUMAN</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">PDLI5_HUMAN</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">SPSY_HUMAN</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">SYNP2_HUMAN</data>
+    </node>
+    <edge source="n1" target="n2">
+      <data key="e_weight">0.832216550409419</data>
+    </edge>
+    <edge source="n2" target="n3">
+      <data key="e_weight">0.845919257693862</data>
+    </edge>
+    <edge source="n3" target="n4">
+      <data key="e_weight">0.821574772234779</data>
+    </edge>
+    <edge source="n0" target="n7">
+      <data key="e_weight">0.837202263849958</data>
+    </edge>
+    <edge source="n1" target="n7">
+      <data key="e_weight">0.846622594779976</data>
+    </edge>
+    <edge source="n5" target="n7">
+      <data key="e_weight">0.803612258279903</data>
+    </edge>
+    <edge source="n6" target="n7">
+      <data key="e_weight">0.847944011796028</data>
+    </edge>
+  </graph>
+</graphml>

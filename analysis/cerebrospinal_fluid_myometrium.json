@@ -1,0 +1,56 @@
+{
+ "0": [
+  {
+   "protein_entry": "A1AT_HUMAN",
+   "accession": "P01009",
+   "gene": "SERPINA1"
+  },
+  {
+   "protein_entry": "HPT_HUMAN",
+   "accession": "P00738",
+   "gene": "HP"
+  },
+  {
+   "protein_entry": "IGHG1_HUMAN",
+   "accession": "P01857",
+   "gene": "IGHG1"
+  },
+  {
+   "protein_entry": "IGHG2_HUMAN",
+   "accession": "P01859",
+   "gene": "IGHG2"
+  },
+  {
+   "protein_entry": "IGHG3_HUMAN",
+   "accession": "P01860",
+   "gene": "IGHG3"
+  }
+ ],
+ "1": [
+  {
+   "protein_entry": "A2AP_HUMAN",
+   "accession": "P08697",
+   "gene": "SERPINF2"
+  },
+  {
+   "protein_entry": "APOB_HUMAN",
+   "accession": "P04114",
+   "gene": "APOB"
+  },
+  {
+   "protein_entry": "CO5_HUMAN",
+   "accession": "P01031",
+   "gene": "C5"
+  },
+  {
+   "protein_entry": "HEP2_HUMAN",
+   "accession": "P05546",
+   "gene": "SERPIND1"
+  },
+  {
+   "protein_entry": "PON1_HUMAN",
+   "accession": "P27169",
+   "gene": "PON1"
+  }
+ ]
+}

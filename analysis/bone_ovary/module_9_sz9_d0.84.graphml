@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">CCAR1_HUMAN</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">NUP98_HUMAN</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">RBM15_HUMAN</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">RPA1_HUMAN</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">SMCA4_HUMAN</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">SR140_HUMAN</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">VIR_HUMAN</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">WDR33_HUMAN</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">ZCCHV_HUMAN</data>
+    </node>
+    <edge source="n0" target="n4">
+      <data key="e_weight">0.802510361089558</data>
+    </edge>
+    <edge source="n2" target="n5">
+      <data key="e_weight">0.858807897808593</data>
+    </edge>
+    <edge source="n1" target="n6">
+      <data key="e_weight">0.831866763584583</data>
+    </edge>
+    <edge source="n5" target="n6">
+      <data key="e_weight">0.802972669147589</data>
+    </edge>
+    <edge source="n0" target="n7">
+      <data key="e_weight">0.820285346700943</data>
+    </edge>
+    <edge source="n5" target="n7">
+      <data key="e_weight">0.83738311493822</data>
+    </edge>
+    <edge source="n2" target="n8">
+      <data key="e_weight">0.881260702668723</data>
+    </edge>
+    <edge source="n3" target="n8">
+      <data key="e_weight">0.887759800836571</data>
+    </edge>
+  </graph>
+</graphml>

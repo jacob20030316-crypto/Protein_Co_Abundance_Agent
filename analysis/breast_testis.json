@@ -1,0 +1,244 @@
+{
+ "0": [
+  {
+   "protein_entry": "ABCA8_HUMAN",
+   "accession": "O94911",
+   "gene": "ABCA8"
+  },
+  {
+   "protein_entry": "ACACA_HUMAN",
+   "accession": "Q13085",
+   "gene": "ACACA"
+  },
+  {
+   "protein_entry": "ACE_HUMAN",
+   "accession": "P12821",
+   "gene": "ACE"
+  },
+  {
+   "protein_entry": "AT1A1_HUMAN",
+   "accession": "P05023",
+   "gene": "ATP1A1"
+  },
+  {
+   "protein_entry": "COPG2_HUMAN",
+   "accession": "Q9UBF2",
+   "gene": "COPG2"
+  },
+  {
+   "protein_entry": "GNA11_HUMAN",
+   "accession": "P29992",
+   "gene": "GNA11"
+  },
+  {
+   "protein_entry": "MYO1C_HUMAN",
+   "accession": "O00159",
+   "gene": "MYO1C"
+  },
+  {
+   "protein_entry": "S23IP_HUMAN",
+   "accession": "Q9Y6Y8",
+   "gene": "SEC23IP"
+  },
+  {
+   "protein_entry": "SKI3_HUMAN",
+   "accession": "Q6PGP7",
+   "gene": "SKIC3"
+  },
+  {
+   "protein_entry": "VP13C_HUMAN",
+   "accession": "Q709C8",
+   "gene": "VPS13C"
+  }
+ ],
+ "1": [
+  {
+   "protein_entry": "ATLA3_HUMAN",
+   "accession": "Q6DD88",
+   "gene": "ATL3"
+  },
+  {
+   "protein_entry": "FERM2_HUMAN",
+   "accession": "Q96AC1",
+   "gene": "FERMT2"
+  },
+  {
+   "protein_entry": "MAON_HUMAN",
+   "accession": "Q16798",
+   "gene": "ME3"
+  },
+  {
+   "protein_entry": "NIBA1_HUMAN",
+   "accession": "Q9BZQ8",
+   "gene": "NIBAN1"
+  },
+  {
+   "protein_entry": "USO1_HUMAN",
+   "accession": "O60763",
+   "gene": "USO1"
+  }
+ ],
+ "2": [
+  {
+   "protein_entry": "BAG5_HUMAN",
+   "accession": "Q9UL15",
+   "gene": "BAG5"
+  },
+  {
+   "protein_entry": "CEP76_HUMAN",
+   "accession": "Q8TAP6",
+   "gene": "CEP76"
+  },
+  {
+   "protein_entry": "CLMN_HUMAN",
+   "accession": "Q96JQ2",
+   "gene": "CLMN"
+  },
+  {
+   "protein_entry": "FAAH1_HUMAN",
+   "accession": "O00519",
+   "gene": "FAAH"
+  },
+  {
+   "protein_entry": "HIP1_HUMAN",
+   "accession": "O00291",
+   "gene": "HIP1"
+  },
+  {
+   "protein_entry": "HXK1_HUMAN",
+   "accession": "P19367",
+   "gene": "HK1"
+  },
+  {
+   "protein_entry": "PCY2_HUMAN",
+   "accession": "Q99447",
+   "gene": "PCYT2"
+  },
+  {
+   "protein_entry": "PSME4_HUMAN",
+   "accession": "Q14997",
+   "gene": "PSME4"
+  }
+ ],
+ "3": [
+  {
+   "protein_entry": "CRLF3_HUMAN",
+   "accession": "Q8IUI8",
+   "gene": "CRLF3"
+  },
+  {
+   "protein_entry": "NAR3_HUMAN",
+   "accession": "Q13508",
+   "gene": "ART3"
+  },
+  {
+   "protein_entry": "PDC6I_HUMAN",
+   "accession": "Q8WUM4",
+   "gene": "PDCD6IP"
+  },
+  {
+   "protein_entry": "SAC1_HUMAN",
+   "accession": "Q9NTJ5",
+   "gene": "SACM1L"
+  },
+  {
+   "protein_entry": "SEH1_HUMAN",
+   "accession": "Q96EE3",
+   "gene": "SEH1L"
+  },
+  {
+   "protein_entry": "THOP1_HUMAN",
+   "accession": "P52888",
+   "gene": "THOP1"
+  }
+ ],
+ "4": [
+  {
+   "protein_entry": "DGUOK_HUMAN",
+   "accession": "Q16854",
+   "gene": "DGUOK"
+  },
+  {
+   "protein_entry": "DNAL1_HUMAN",
+   "accession": "Q4LDG9",
+   "gene": "DNAL1"
+  },
+  {
+   "protein_entry": "FBXW9_HUMAN",
+   "accession": "Q5XUX1",
+   "gene": "FBXW9"
+  },
+  {
+   "protein_entry": "HACL1_HUMAN",
+   "accession": "Q9UJ83",
+   "gene": "HACL1"
+  },
+  {
+   "protein_entry": "HVCN1_HUMAN",
+   "accession": "Q96D96",
+   "gene": "HVCN1"
+  },
+  {
+   "protein_entry": "NDK7_HUMAN",
+   "accession": "Q9Y5B8",
+   "gene": "NME7"
+  },
+  {
+   "protein_entry": "NRDC_HUMAN",
+   "accession": "O43847",
+   "gene": "NRDC"
+  },
+  {
+   "protein_entry": "PI42C_HUMAN",
+   "accession": "Q8TBX8",
+   "gene": "PIP4K2C"
+  },
+  {
+   "protein_entry": "PSD3_HUMAN",
+   "accession": "Q9NYI0",
+   "gene": "PSD3"
+  },
+  {
+   "protein_entry": "STK39_HUMAN",
+   "accession": "Q9UEW8",
+   "gene": "STK39"
+  },
+  {
+   "protein_entry": "VP13A_HUMAN",
+   "accession": "Q96RL7",
+   "gene": "VPS13A"
+  }
+ ],
+ "5": [
+  {
+   "protein_entry": "DP13B_HUMAN",
+   "accession": "Q8NEU8",
+   "gene": "APPL2"
+  },
+  {
+   "protein_entry": "FSD1_HUMAN",
+   "accession": "Q9BTV5",
+   "gene": "FSD1"
+  },
+  {
+   "protein_entry": "GMPR1_HUMAN",
+   "accession": "P36959",
+   "gene": "GMPR"
+  },
+  {
+   "protein_entry": "STX18_HUMAN",
+   "accession": "Q9P2W9",
+   "gene": "STX18"
+  },
+  {
+   "protein_entry": "VPS11_HUMAN",
+   "accession": "Q9H270",
+   "gene": "VPS11"
+  },
+  {
+   "protein_entry": "VPS53_HUMAN",
+   "accession": "Q5VIR6",
+   "gene": "VPS53"
+  }
+ ]
+}

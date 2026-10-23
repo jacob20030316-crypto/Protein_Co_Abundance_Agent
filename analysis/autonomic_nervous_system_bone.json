@@ -1,0 +1,131 @@
+{
+ "0": [
+  {
+   "protein_entry": "AKAP8_HUMAN",
+   "accession": "O43823",
+   "gene": "AKAP8"
+  },
+  {
+   "protein_entry": "BPNT1_HUMAN",
+   "accession": "O95861",
+   "gene": "BPNT1"
+  },
+  {
+   "protein_entry": "CAPZB_HUMAN",
+   "accession": "P47756",
+   "gene": "CAPZB"
+  },
+  {
+   "protein_entry": "DPOD1_HUMAN",
+   "accession": "P28340",
+   "gene": "POLD1"
+  },
+  {
+   "protein_entry": "EDC4_HUMAN",
+   "accession": "Q6P2E9",
+   "gene": "EDC4"
+  },
+  {
+   "protein_entry": "ERBIN_HUMAN",
+   "accession": "Q96RT1",
+   "gene": "ERBIN"
+  },
+  {
+   "protein_entry": "GDAP1_HUMAN",
+   "accession": "Q8TB36",
+   "gene": "GDAP1"
+  },
+  {
+   "protein_entry": "HDAC1_HUMAN",
+   "accession": "Q13547",
+   "gene": "HDAC1"
+  },
+  {
+   "protein_entry": "LRRF1_HUMAN",
+   "accession": "Q32MZ4",
+   "gene": "LRRFIP1"
+  },
+  {
+   "protein_entry": "MDC1_HUMAN",
+   "accession": "Q14676",
+   "gene": "MDC1"
+  },
+  {
+   "protein_entry": "MYEF2_HUMAN",
+   "accession": "Q9P2K5",
+   "gene": "MYEF2"
+  },
+  {
+   "protein_entry": "NIP7_HUMAN",
+   "accession": "Q9Y221",
+   "gene": "NIP7"
+  },
+  {
+   "protein_entry": "NUP85_HUMAN",
+   "accession": "Q9BW27",
+   "gene": "NUP85"
+  },
+  {
+   "protein_entry": "PFD4_HUMAN",
+   "accession": "Q9NQP4",
+   "gene": "PFDN4"
+  },
+  {
+   "protein_entry": "PPME1_HUMAN",
+   "accession": "Q9Y570",
+   "gene": "PPME1"
+  },
+  {
+   "protein_entry": "RPAB1_HUMAN",
+   "accession": "P19388",
+   "gene": "POLR2E"
+  },
+  {
+   "protein_entry": "SCAM4_HUMAN",
+   "accession": "Q969E2",
+   "gene": "SCAMP4"
+  },
+  {
+   "protein_entry": "SPTN1_HUMAN",
+   "accession": "Q13813",
+   "gene": "SPTAN1"
+  },
+  {
+   "protein_entry": "SYNE2_HUMAN",
+   "accession": "Q8WXH0",
+   "gene": "SYNE2"
+  },
+  {
+   "protein_entry": "TCEA1_HUMAN",
+   "accession": "P23193",
+   "gene": "TCEA1"
+  }
+ ],
+ "1": [
+  {
+   "protein_entry": "DDX21_HUMAN",
+   "accession": "Q9NR30",
+   "gene": "DDX21"
+  },
+  {
+   "protein_entry": "MDHC_HUMAN",
+   "accession": "P40925",
+   "gene": "MDH1"
+  },
+  {
+   "protein_entry": "PFKAM_HUMAN",
+   "accession": "P08237",
+   "gene": "PFKM"
+  },
+  {
+   "protein_entry": "PHIP_HUMAN",
+   "accession": "Q8WWQ0",
+   "gene": "PHIP"
+  },
+  {
+   "protein_entry": "RBM10_HUMAN",
+   "accession": "P98175",
+   "gene": "RBM10"
+  }
+ ]
+}

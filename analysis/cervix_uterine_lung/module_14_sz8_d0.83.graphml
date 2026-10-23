@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">DNJB1_HUMAN</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">EPS8_HUMAN</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">GDE_HUMAN</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">GMDS_HUMAN</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">ITPI2_HUMAN</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">TRIPB_HUMAN</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">WDR18_HUMAN</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">WDR26_HUMAN</data>
+    </node>
+    <edge source="n1" target="n3">
+      <data key="e_weight">0.816767117714596</data>
+    </edge>
+    <edge source="n2" target="n3">
+      <data key="e_weight">0.869056310008904</data>
+    </edge>
+    <edge source="n4" target="n5">
+      <data key="e_weight">0.81171113646698</data>
+    </edge>
+    <edge source="n0" target="n7">
+      <data key="e_weight">0.810918532068268</data>
+    </edge>
+    <edge source="n1" target="n7">
+      <data key="e_weight">0.821268202889246</data>
+    </edge>
+    <edge source="n5" target="n7">
+      <data key="e_weight">0.830644850360078</data>
+    </edge>
+    <edge source="n6" target="n7">
+      <data key="e_weight">0.817608838946674</data>
+    </edge>
+  </graph>
+</graphml>

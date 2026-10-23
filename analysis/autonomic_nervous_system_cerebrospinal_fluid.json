@@ -1,0 +1,143 @@
+{
+ "0": [
+  {
+   "protein_entry": "AATC_HUMAN",
+   "accession": "P17174",
+   "gene": "GOT1"
+  },
+  {
+   "protein_entry": "AMD_HUMAN",
+   "accession": "P19021",
+   "gene": "PAM"
+  },
+  {
+   "protein_entry": "ANT3_HUMAN",
+   "accession": "P01008",
+   "gene": "SERPINC1"
+  },
+  {
+   "protein_entry": "AT1B1_HUMAN",
+   "accession": "P05026",
+   "gene": "ATP1B1"
+  },
+  {
+   "protein_entry": "BIP_HUMAN",
+   "accession": "P11021",
+   "gene": "HSPA5"
+  },
+  {
+   "protein_entry": "CBPD_HUMAN",
+   "accession": "O75976",
+   "gene": "CPD"
+  },
+  {
+   "protein_entry": "FA5_HUMAN",
+   "accession": "P12259",
+   "gene": "F5"
+  },
+  {
+   "protein_entry": "PENK_HUMAN",
+   "accession": "P01210",
+   "gene": "PENK"
+  },
+  {
+   "protein_entry": "RABP1_HUMAN",
+   "accession": "P29762",
+   "gene": "CRABP1"
+  },
+  {
+   "protein_entry": "SCG2_HUMAN",
+   "accession": "P13521",
+   "gene": "SCG2"
+  },
+  {
+   "protein_entry": "SIL1_HUMAN",
+   "accession": "Q9H173",
+   "gene": "SIL1"
+  },
+  {
+   "protein_entry": "VTDB_HUMAN",
+   "accession": "P02774",
+   "gene": "GC"
+  }
+ ],
+ "1": [
+  {
+   "protein_entry": "ACBP_HUMAN",
+   "accession": "P07108",
+   "gene": "DBI"
+  },
+  {
+   "protein_entry": "ADA10_HUMAN",
+   "accession": "O14672",
+   "gene": "ADAM10"
+  },
+  {
+   "protein_entry": "APOA1_HUMAN",
+   "accession": "P02647",
+   "gene": "APOA1"
+  },
+  {
+   "protein_entry": "HSP13_HUMAN",
+   "accession": "P48723",
+   "gene": "HSPA13"
+  },
+  {
+   "protein_entry": "SCG3_HUMAN",
+   "accession": "Q8WXD2",
+   "gene": "SCG3"
+  },
+  {
+   "protein_entry": "VTNC_HUMAN",
+   "accession": "P04004",
+   "gene": "VTN"
+  }
+ ],
+ "2": [
+  {
+   "protein_entry": "BASP1_HUMAN",
+   "accession": "P80723",
+   "gene": "BASP1"
+  },
+  {
+   "protein_entry": "CADM1_HUMAN",
+   "accession": "Q9BY67",
+   "gene": "CADM1"
+  },
+  {
+   "protein_entry": "CD276_HUMAN",
+   "accession": "Q5ZPR3",
+   "gene": "CD276"
+  },
+  {
+   "protein_entry": "EGFR_HUMAN",
+   "accession": "P00533",
+   "gene": "EGFR"
+  },
+  {
+   "protein_entry": "EMIL1_HUMAN",
+   "accession": "Q9Y6C2",
+   "gene": "EMILIN1"
+  },
+  {
+   "protein_entry": "L1CAM_HUMAN",
+   "accession": "P32004",
+   "gene": "L1CAM"
+  },
+  {
+   "protein_entry": "NRCAM_HUMAN",
+   "accession": "Q92823",
+   "gene": "NRCAM"
+  },
+  {
+   "protein_entry": "SBP1_HUMAN",
+   "accession": "Q13228",
+   "gene": "SELENBP1"
+  },
+  {
+   "protein_entry": "SE6L2_HUMAN",
+   "accession": "Q6UXD5",
+   "gene": "SEZ6L2"
+  }
+ ]
+}

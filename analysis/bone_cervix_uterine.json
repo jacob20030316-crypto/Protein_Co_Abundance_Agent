@@ -1,0 +1,61 @@
+{
+ "0": [
+  {
+   "protein_entry": "CISD1_HUMAN",
+   "accession": "Q9NZ45",
+   "gene": "CISD1"
+  },
+  {
+   "protein_entry": "HTAI2_HUMAN",
+   "accession": "Q9BUP3",
+   "gene": "HTATIP2"
+  },
+  {
+   "protein_entry": "NIPS1_HUMAN",
+   "accession": "Q9BPW8",
+   "gene": "NIPSNAP1"
+  },
+  {
+   "protein_entry": "PQBP1_HUMAN",
+   "accession": "O60828",
+   "gene": "PQBP1"
+  },
+  {
+   "protein_entry": "RU2B_HUMAN",
+   "accession": "P08579",
+   "gene": "SNRPB2"
+  },
+  {
+   "protein_entry": "TMA16_HUMAN",
+   "accession": "Q96EY4",
+   "gene": "TMA16"
+  }
+ ],
+ "1": [
+  {
+   "protein_entry": "CYBP_HUMAN",
+   "accession": "Q9HB71",
+   "gene": "CACYBP"
+  },
+  {
+   "protein_entry": "LDHA_HUMAN",
+   "accession": "P00338",
+   "gene": "LDHA"
+  },
+  {
+   "protein_entry": "NAA50_HUMAN",
+   "accession": "Q9GZZ1",
+   "gene": "NAA50"
+  },
+  {
+   "protein_entry": "TPD52_HUMAN",
+   "accession": "P55327",
+   "gene": "TPD52"
+  },
+  {
+   "protein_entry": "TPD54_HUMAN",
+   "accession": "O43399",
+   "gene": "TPD52L2"
+  }
+ ]
+}

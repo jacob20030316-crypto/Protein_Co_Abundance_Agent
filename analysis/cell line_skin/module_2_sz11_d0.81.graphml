@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">HEAT1_HUMAN</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">LRBA_HUMAN</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">PDS5B_HUMAN</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">PHIP_HUMAN</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">RPB1_HUMAN</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">RRP5_HUMAN</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">SUV3_HUMAN</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">SYYM_HUMAN</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">TEX10_HUMAN</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">URB2_HUMAN</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">YTDC2_HUMAN</data>
+    </node>
+    <edge source="n2" target="n3">
+      <data key="e_weight">0.814423016777863</data>
+    </edge>
+    <edge source="n1" target="n8">
+      <data key="e_weight">0.801123172281986</data>
+    </edge>
+    <edge source="n5" target="n8">
+      <data key="e_weight">0.807231407501352</data>
+    </edge>
+    <edge source="n0" target="n9">
+      <data key="e_weight">0.815032566240302</data>
+    </edge>
+    <edge source="n1" target="n9">
+      <data key="e_weight">0.826629826768233</data>
+    </edge>
+    <edge source="n3" target="n9">
+      <data key="e_weight">0.809104436078227</data>
+    </edge>
+    <edge source="n4" target="n9">
+      <data key="e_weight">0.808217730479395</data>
+    </edge>
+    <edge source="n6" target="n9">
+      <data key="e_weight">0.805360313251845</data>
+    </edge>
+    <edge source="n7" target="n9">
+      <data key="e_weight">0.82421752021158</data>
+    </edge>
+    <edge source="n4" target="n10">
+      <data key="e_weight">0.801047715281547</data>
+    </edge>
+  </graph>
+</graphml>

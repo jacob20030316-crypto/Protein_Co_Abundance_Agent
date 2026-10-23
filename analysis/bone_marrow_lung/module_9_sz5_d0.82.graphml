@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">ARID2_HUMAN</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">FIP1_HUMAN</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">GCC2_HUMAN</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">PHF14_HUMAN</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">RBM7_HUMAN</data>
+    </node>
+    <edge source="n0" target="n2">
+      <data key="e_weight">0.805661689332723</data>
+    </edge>
+    <edge source="n0" target="n4">
+      <data key="e_weight">0.854354554908935</data>
+    </edge>
+    <edge source="n1" target="n4">
+      <data key="e_weight">0.815069641104588</data>
+    </edge>
+    <edge source="n3" target="n4">
+      <data key="e_weight">0.811304710542855</data>
+    </edge>
+  </graph>
+</graphml>

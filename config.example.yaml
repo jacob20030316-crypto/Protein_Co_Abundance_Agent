@@ -1,0 +1,14 @@
+# Copy this file to config.yaml (or point COABUNDANCE_CONFIG to it) and edit the paths.
+# Relative paths are resolved against the directory that contains this file.
+paths:
+  raw_data: raw_data      # raw ProteomicsDB downloads (download.py)
+  data: data              # sample-by-protein matrices and reference tables
+  graph: graph            # Step 1: tissue co-abundance networks
+  analysis: analysis      # Step 2 / 2b: consensus networks and conserved co-abundance clusters
+  knowledge: knowledge    # Step 3: enrichment, annotations and cluster descriptions
+  report: report          # Step 4: research reports
+  traces: agent_traces    # full agent trajectories of every run
+  work: work              # intermediate files (enrichment sources, permutation filter)
+
+# File holding OPENAI_API_KEY=... (an OPENAI_API_KEY environment variable takes precedence)
+env_file: .env

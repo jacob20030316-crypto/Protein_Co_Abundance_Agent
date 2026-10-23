@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">APOA4_HUMAN</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">APOB_HUMAN</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">APOC1_HUMAN</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">APOE_HUMAN</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">BGLR_HUMAN</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">ECM1_HUMAN</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">HEXA_HUMAN</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">PGK1_HUMAN</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">PLMN_HUMAN</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">SODM_HUMAN</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">THRB_HUMAN</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">VTNC_HUMAN</data>
+    </node>
+    <edge source="n0" target="n2">
+      <data key="e_weight">0.835757788743092</data>
+    </edge>
+    <edge source="n1" target="n2">
+      <data key="e_weight">0.935235816135177</data>
+    </edge>
+    <edge source="n0" target="n3">
+      <data key="e_weight">0.890251497338448</data>
+    </edge>
+    <edge source="n2" target="n3">
+      <data key="e_weight">0.941079192451505</data>
+    </edge>
+    <edge source="n4" target="n6">
+      <data key="e_weight">0.978814810010812</data>
+    </edge>
+    <edge source="n0" target="n7">
+      <data key="e_weight">0.85046104997076</data>
+    </edge>
+    <edge source="n2" target="n7">
+      <data key="e_weight">0.809281788621181</data>
+    </edge>
+    <edge source="n3" target="n7">
+      <data key="e_weight">0.853239439732496</data>
+    </edge>
+    <edge source="n0" target="n8">
+      <data key="e_weight">0.865400864507443</data>
+    </edge>
+    <edge source="n2" target="n8">
+      <data key="e_weight">0.908246358085141</data>
+    </edge>
+    <edge source="n7" target="n8">
+      <data key="e_weight">0.869488055804771</data>
+    </edge>
+    <edge source="n0" target="n9">
+      <data key="e_weight">0.981543328181875</data>
+    </edge>
+    <edge source="n3" target="n9">
+      <data key="e_weight">0.915212465219018</data>
+    </edge>
+    <edge source="n5" target="n9">
+      <data key="e_weight">0.988127354693966</data>
+    </edge>
+    <edge source="n8" target="n9">
+      <data key="e_weight">0.90502582534209</data>
+    </edge>
+    <edge source="n0" target="n10">
+      <data key="e_weight">0.905387138985014</data>
+    </edge>
+    <edge source="n1" target="n10">
+      <data key="e_weight">0.803157903794998</data>
+    </edge>
+    <edge source="n2" target="n10">
+      <data key="e_weight">0.90023286600888</data>
+    </edge>
+    <edge source="n5" target="n10">
+      <data key="e_weight">0.947550829375351</data>
+    </edge>
+    <edge source="n8" target="n10">
+      <data key="e_weight">0.935677128932131</data>
+    </edge>
+    <edge source="n0" target="n11">
+      <data key="e_weight">0.884355076810307</data>
+    </edge>
+    <edge source="n2" target="n11">
+      <data key="e_weight">0.864148782421781</data>
+    </edge>
+    <edge source="n4" target="n11">
+      <data key="e_weight">0.82074807433765</data>
+    </edge>
+    <edge source="n5" target="n11">
+      <data key="e_weight">0.930871775562411</data>
+    </edge>
+    <edge source="n6" target="n11">
+      <data key="e_weight">0.806507883732337</data>
+    </edge>
+    <edge source="n8" target="n11">
+      <data key="e_weight">0.907442362186383</data>
+    </edge>
+  </graph>
+</graphml>

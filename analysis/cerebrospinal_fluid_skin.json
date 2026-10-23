@@ -1,0 +1,34 @@
+{
+ "1": [
+  {
+   "protein_entry": "CD276_HUMAN",
+   "accession": "Q5ZPR3",
+   "gene": "CD276"
+  },
+  {
+   "protein_entry": "NRCAM_HUMAN",
+   "accession": "Q92823",
+   "gene": "NRCAM"
+  },
+  {
+   "protein_entry": "PLBL2_HUMAN",
+   "accession": "Q8NHP8",
+   "gene": "PLBD2"
+  },
+  {
+   "protein_entry": "PPAL_HUMAN",
+   "accession": "P11117",
+   "gene": "ACP2"
+  },
+  {
+   "protein_entry": "SODM_HUMAN",
+   "accession": "P04179",
+   "gene": "SOD2"
+  },
+  {
+   "protein_entry": "TFR1_HUMAN",
+   "accession": "P02786",
+   "gene": "TFRC"
+  }
+ ]
+}

@@ -1,0 +1,140 @@
+{
+ "0": [
+  {
+   "protein_entry": "AB1IP_HUMAN",
+   "accession": "Q7Z5R6",
+   "gene": "APBB1IP"
+  },
+  {
+   "protein_entry": "ALG1_HUMAN",
+   "accession": "Q9BT22",
+   "gene": "ALG1"
+  },
+  {
+   "protein_entry": "CPZIP_HUMAN",
+   "accession": "Q6JBY9",
+   "gene": "RCSD1"
+  },
+  {
+   "protein_entry": "MPP7_HUMAN",
+   "accession": "Q5T2T1",
+   "gene": "MPP7"
+  },
+  {
+   "protein_entry": "OPHN1_HUMAN",
+   "accession": "O60890",
+   "gene": "OPHN1"
+  },
+  {
+   "protein_entry": "PEXRP_HUMAN",
+   "accession": "Q6IAN0",
+   "gene": "DHRS7B"
+  },
+  {
+   "protein_entry": "PPCS_HUMAN",
+   "accession": "Q9HAB8",
+   "gene": "PPCS"
+  },
+  {
+   "protein_entry": "RPGP1_HUMAN",
+   "accession": "P47736",
+   "gene": "RAP1GAP"
+  },
+  {
+   "protein_entry": "SHIP1_HUMAN",
+   "accession": "Q92835",
+   "gene": "INPP5D"
+  },
+  {
+   "protein_entry": "T3JAM_HUMAN",
+   "accession": "Q9Y228",
+   "gene": "TRAF3IP3"
+  }
+ ],
+ "1": [
+  {
+   "protein_entry": "ABHDB_HUMAN",
+   "accession": "Q8NFV4",
+   "gene": "ABHD11"
+  },
+  {
+   "protein_entry": "F193B_HUMAN",
+   "accession": "Q96PV7",
+   "gene": "FAM193B"
+  },
+  {
+   "protein_entry": "ING3_HUMAN",
+   "accession": "Q9NXR8",
+   "gene": "ING3"
+  },
+  {
+   "protein_entry": "PSB10_HUMAN",
+   "accession": "P40306",
+   "gene": "PSMB10"
+  },
+  {
+   "protein_entry": "PSB9_HUMAN",
+   "accession": "P28065",
+   "gene": "PSMB9"
+  }
+ ],
+ "2": [
+  {
+   "protein_entry": "EHD1_HUMAN",
+   "accession": "Q9H4M9",
+   "gene": "EHD1"
+  },
+  {
+   "protein_entry": "SPART_HUMAN",
+   "accession": "Q8N0X7",
+   "gene": "SPART"
+  },
+  {
+   "protein_entry": "STAT1_HUMAN",
+   "accession": "P42224",
+   "gene": "STAT1"
+  },
+  {
+   "protein_entry": "TTL_HUMAN",
+   "accession": "Q8NG68",
+   "gene": "TTL"
+  },
+  {
+   "protein_entry": "TYY2_HUMAN",
+   "accession": "O15391",
+   "gene": "YY2"
+  },
+  {
+   "protein_entry": "VPS45_HUMAN",
+   "accession": "Q9NRW7",
+   "gene": "VPS45"
+  }
+ ],
+ "3": [
+  {
+   "protein_entry": "K1C16_HUMAN",
+   "accession": "P08779",
+   "gene": "KRT16"
+  },
+  {
+   "protein_entry": "K2C5_HUMAN",
+   "accession": "P13647",
+   "gene": "KRT5"
+  },
+  {
+   "protein_entry": "PLAK_HUMAN",
+   "accession": "P14923",
+   "gene": "JUP"
+  },
+  {
+   "protein_entry": "SPB12_HUMAN",
+   "accession": "Q96P63",
+   "gene": "SERPINB12"
+  },
+  {
+   "protein_entry": "ZCCHV_HUMAN",
+   "accession": "Q7Z2W4",
+   "gene": "ZC3HAV1"
+  }
+ ]
+}

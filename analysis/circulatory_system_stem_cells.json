@@ -1,0 +1,34 @@
+{
+ "0": [
+  {
+   "protein_entry": "CTNA2_HUMAN",
+   "accession": "P26232",
+   "gene": "CTNNA2"
+  },
+  {
+   "protein_entry": "FKBP7_HUMAN",
+   "accession": "Q9Y680",
+   "gene": "FKBP7"
+  },
+  {
+   "protein_entry": "LZIC_HUMAN",
+   "accession": "Q8WZA0",
+   "gene": "LZIC"
+  },
+  {
+   "protein_entry": "MYO1D_HUMAN",
+   "accession": "O94832",
+   "gene": "MYO1D"
+  },
+  {
+   "protein_entry": "TM109_HUMAN",
+   "accession": "Q9BVC6",
+   "gene": "TMEM109"
+  },
+  {
+   "protein_entry": "TOR2X_HUMAN",
+   "accession": "Q8N2E6",
+   "gene": "TOR2A"
+  }
+ ]
+}

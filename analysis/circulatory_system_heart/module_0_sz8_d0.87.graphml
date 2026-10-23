@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">A1BG_HUMAN</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">A2MG_HUMAN</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">ANT3_HUMAN</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">CERU_HUMAN</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">CO3_HUMAN</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">HEMO_HUMAN</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">IC1_HUMAN</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">VTDB_HUMAN</data>
+    </node>
+    <edge source="n0" target="n2">
+      <data key="e_weight">0.841326787750205</data>
+    </edge>
+    <edge source="n1" target="n3">
+      <data key="e_weight">0.939623527194691</data>
+    </edge>
+    <edge source="n0" target="n5">
+      <data key="e_weight">0.831595565352892</data>
+    </edge>
+    <edge source="n1" target="n5">
+      <data key="e_weight">0.9092266657046</data>
+    </edge>
+    <edge source="n3" target="n5">
+      <data key="e_weight">0.856508348079049</data>
+    </edge>
+    <edge source="n4" target="n5">
+      <data key="e_weight">0.904936077152837</data>
+    </edge>
+    <edge source="n4" target="n6">
+      <data key="e_weight">0.866453083467823</data>
+    </edge>
+    <edge source="n5" target="n6">
+      <data key="e_weight">0.829279460715354</data>
+    </edge>
+    <edge source="n5" target="n7">
+      <data key="e_weight">0.857595951488745</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">4F2_HUMAN</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">A2AP_HUMAN</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">APOA1_HUMAN</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">ASPH_HUMAN</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">CO6_HUMAN</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">ITIH4_HUMAN</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">PGBM_HUMAN</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">SODM_HUMAN</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">ZA2G_HUMAN</data>
+    </node>
+    <edge source="n0" target="n2">
+      <data key="e_weight">0.823399555045429</data>
+    </edge>
+    <edge source="n0" target="n3">
+      <data key="e_weight">0.825385746223927</data>
+    </edge>
+    <edge source="n1" target="n5">
+      <data key="e_weight">0.832045782406273</data>
+    </edge>
+    <edge source="n3" target="n5">
+      <data key="e_weight">0.9277737771481</data>
+    </edge>
+    <edge source="n4" target="n5">
+      <data key="e_weight">0.846275225957192</data>
+    </edge>
+    <edge source="n0" target="n6">
+      <data key="e_weight">0.874379440919433</data>
+    </edge>
+    <edge source="n3" target="n6">
+      <data key="e_weight">0.822307875769188</data>
+    </edge>
+    <edge source="n5" target="n7">
+      <data key="e_weight">0.937889223913064</data>
+    </edge>
+    <edge source="n3" target="n8">
+      <data key="e_weight">0.943320639947456</data>
+    </edge>
+    <edge source="n5" target="n8">
+      <data key="e_weight">0.88143900462477</data>
+    </edge>
+  </graph>
+</graphml>

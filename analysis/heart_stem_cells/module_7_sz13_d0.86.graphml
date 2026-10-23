@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">APMAP_HUMAN</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">ASPH_HUMAN</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">BCAM_HUMAN</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">CAN2_HUMAN</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">FLOT1_HUMAN</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">HEMH_HUMAN</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">HYEP_HUMAN</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">ILK_HUMAN</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">KANK2_HUMAN</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">MYO1C_HUMAN</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">PREP_HUMAN</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">SCPDL_HUMAN</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">STOM_HUMAN</data>
+    </node>
+    <edge source="n1" target="n2">
+      <data key="e_weight">0.841293881911013</data>
+    </edge>
+    <edge source="n0" target="n6">
+      <data key="e_weight">0.844325019339278</data>
+    </edge>
+    <edge source="n3" target="n6">
+      <data key="e_weight">0.903983000291898</data>
+    </edge>
+    <edge source="n3" target="n7">
+      <data key="e_weight">0.8963922805972</data>
+    </edge>
+    <edge source="n1" target="n8">
+      <data key="e_weight">0.929278521081493</data>
+    </edge>
+    <edge source="n6" target="n8">
+      <data key="e_weight">0.874787949483611</data>
+    </edge>
+    <edge source="n4" target="n9">
+      <data key="e_weight">0.841057980561832</data>
+    </edge>
+    <edge source="n3" target="n10">
+      <data key="e_weight">0.85758299242482</data>
+    </edge>
+    <edge source="n5" target="n10">
+      <data key="e_weight">0.852521658610156</data>
+    </edge>
+    <edge source="n0" target="n11">
+      <data key="e_weight">0.829612226762485</data>
+    </edge>
+    <edge source="n2" target="n11">
+      <data key="e_weight">0.813567329897838</data>
+    </edge>
+    <edge source="n4" target="n11">
+      <data key="e_weight">0.885154275934477</data>
+    </edge>
+    <edge source="n11" target="n12">
+      <data key="e_weight">0.865515559000929</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,140 @@
+{
+ "0": [
+  {
+   "protein_entry": "ANR28_HUMAN",
+   "accession": "O15084",
+   "gene": "ANKRD28"
+  },
+  {
+   "protein_entry": "DJC21_HUMAN",
+   "accession": "Q5F1R6",
+   "gene": "DNAJC21"
+  },
+  {
+   "protein_entry": "GNL3_HUMAN",
+   "accession": "Q9BVP2",
+   "gene": "GNL3"
+  },
+  {
+   "protein_entry": "HOME3_HUMAN",
+   "accession": "Q9NSC5",
+   "gene": "HOMER3"
+  },
+  {
+   "protein_entry": "NDC80_HUMAN",
+   "accession": "O14777",
+   "gene": "NDC80"
+  },
+  {
+   "protein_entry": "TOPK_HUMAN",
+   "accession": "Q96KB5",
+   "gene": "PBK"
+  },
+  {
+   "protein_entry": "TTK_HUMAN",
+   "accession": "P33981",
+   "gene": "TTK"
+  },
+  {
+   "protein_entry": "UBE2S_HUMAN",
+   "accession": "Q16763",
+   "gene": "UBE2S"
+  }
+ ],
+ "1": [
+  {
+   "protein_entry": "CPSF4_HUMAN",
+   "accession": "O95639",
+   "gene": "CPSF4"
+  },
+  {
+   "protein_entry": "NUP37_HUMAN",
+   "accession": "Q8NFH4",
+   "gene": "NUP37"
+  },
+  {
+   "protein_entry": "RRP15_HUMAN",
+   "accession": "Q9Y3B9",
+   "gene": "RRP15"
+  },
+  {
+   "protein_entry": "RSBNL_HUMAN",
+   "accession": "Q6PCB5",
+   "gene": "RSBN1L"
+  },
+  {
+   "protein_entry": "ZMYM4_HUMAN",
+   "accession": "Q5VZL5",
+   "gene": "ZMYM4"
+  }
+ ],
+ "2": [
+  {
+   "protein_entry": "DHX9_HUMAN",
+   "accession": "Q08211",
+   "gene": "DHX9"
+  },
+  {
+   "protein_entry": "EIF3C_HUMAN",
+   "accession": "Q99613",
+   "gene": "EIF3C"
+  },
+  {
+   "protein_entry": "HNRPR_HUMAN",
+   "accession": "O43390",
+   "gene": "HNRNPR"
+  },
+  {
+   "protein_entry": "RL12_HUMAN",
+   "accession": "P30050",
+   "gene": "RPL12"
+  },
+  {
+   "protein_entry": "RL3_HUMAN",
+   "accession": "P39023",
+   "gene": "RPL3"
+  },
+  {
+   "protein_entry": "RL6_HUMAN",
+   "accession": "Q02878",
+   "gene": "RPL6"
+  }
+ ],
+ "3": [
+  {
+   "protein_entry": "DIESL_HUMAN",
+   "accession": "Q96MH6",
+   "gene": "TMEM68"
+  },
+  {
+   "protein_entry": "DOCK7_HUMAN",
+   "accession": "Q96N67",
+   "gene": "DOCK7"
+  },
+  {
+   "protein_entry": "DYSF_HUMAN",
+   "accession": "O75923",
+   "gene": "DYSF"
+  },
+  {
+   "protein_entry": "ELP1_HUMAN",
+   "accession": "O95163",
+   "gene": "ELP1"
+  },
+  {
+   "protein_entry": "EXD2_HUMAN",
+   "accession": "Q9NVH0",
+   "gene": "EXD2"
+  },
+  {
+   "protein_entry": "PARP4_HUMAN",
+   "accession": "Q9UKK3",
+   "gene": "PARP4"
+  },
+  {
+   "protein_entry": "PDZD8_HUMAN",
+   "accession": "Q8NEN9",
+   "gene": "PDZD8"
+  }
+ ]
+}
