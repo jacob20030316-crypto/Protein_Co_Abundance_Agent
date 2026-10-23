@@ -49,22 +49,6 @@ Steps 1, 2, 3b and 4 call the OpenAI API (models are set in each script and can 
 Each tissue, tissue pair or cluster is analysed in its own agent run, and every run writes its full trajectory to
 the `traces` directory.
 
-## Released results
-
-This repository contains the outputs used in the paper, covering 216 tissue pairs and 1,825 conserved
-co-abundance clusters:
-
-- `data/` – abundance matrices exported from ProteomicsDB and the reference tables used by the pipeline
-  (UniProt, housekeeping genes, Human Protein Atlas, hu.MAP 3.0, STRING, CORUM)
-- `graph/` – tissue co-abundance networks (igraph pickles)
-- `analysis/` – for each tissue pair, `<pair>.json` maps each cluster id to its members; `<pair>/` holds the
-  consensus network and one GraphML file per cluster
-- `knowledge/` – enrichment results, annotations and descriptions of every cluster
-- `report/` – one research report per tissue pair
-- `classification/` – functional category of every cluster and the prompt used to assign it
-
-Raw ProteomicsDB downloads are not included; `download.py` retrieves them.
-
 ## Data sources
 
 ProteomicsDB, UniProt, Human Protein Atlas, hu.MAP 3.0, STRING, CORUM, Gene Ontology, KEGG, MyGene.info,
